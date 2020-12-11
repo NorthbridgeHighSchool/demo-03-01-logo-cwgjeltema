@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(17, 199, 231)
+}
+
+img {
+  max-height: 300px;
+}
+
+.odd {
+  float: left;
+  margin-right: 15px;
+}
+.even {
+  float: right;
+  margin-left: 15px;
+}
+p {
+  text-align: justify;
+}
+.logo {
+  float: left;
+  margin-right: 15px;
+}
+
+h1 {
+  color: rgb(238, 22, 184)
+}
+h2 {
+  color: rgb(243, 188, 9)
+}
